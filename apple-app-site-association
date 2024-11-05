@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": [
+      {
+        "appID": "69X5U4FLJ9.com.clubcaddie.pos",
+        "paths": [
+          "/OAuthResponse/*"
+        ]
+      }
+    ]
+  }
+}
