@@ -5,7 +5,7 @@
     ],
     "details": [
       {
-        "appID": "69X5U4FLJ9.com.clubcaddie.pos",
+        "appID": ".com.clubcaddie.pos",
         "paths": [
           "/OAuthResponse/*"
         ]
